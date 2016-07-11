@@ -1,0 +1,550 @@
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportForm.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\itextsharp.dll
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\itextsharp.pdfa.dll
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\itextsharp.xtra.dll
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\itextsharp.xml
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\Ellip sonic\Documents\Visual Studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+H:\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\copy\Desktop application\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+C:\Users\Sahana\Desktop\new code\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+C:\Users\Sahana\Desktop\27 JAN\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Sahana\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\abhi\Desktop\27 JAN\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Sahana\Desktop\27 JAN end\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\Interop.ISGRIDLib.dll
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\AxInterop.ISGRIDLib.dll
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.ResolveComReference.cache
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\bin\Debug\Interop.ISGRIDLib.dll
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\bin\Debug\AxInterop.ISGRIDLib.dll
+C:\Users\Sahana\Desktop\27 JAN 2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\Interop.ISGRIDLib.dll
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\AxInterop.ISGRIDLib.dll
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.ResolveComReference.cache
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\bin\Debug\Interop.ISGRIDLib.dll
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\bin\Debug\AxInterop.ISGRIDLib.dll
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Sahana\Desktop\28 JAN 2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.ResolveComReference.cache
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+D:\wholeshalemarket backup\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\Interop.ISGRIDLib.dll
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\AxInterop.ISGRIDLib.dll
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.ResolveComReference.cache
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\bin\Debug\Interop.ISGRIDLib.dll
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\bin\Debug\AxInterop.ISGRIDLib.dll
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\abhi\Desktop\29-01-2015\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.ResolveComReference.cache
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\Ceyone - User1\Desktop\feb 2\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\Interop.ISGRIDLib.dll
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\AxInterop.ISGRIDLib.dll
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.ResolveComReference.cache
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.application
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\bin\Debug\Interop.ISGRIDLib.dll
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\bin\Debug\AxInterop.ISGRIDLib.dll
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\Whosalemarket.csprojResolveAssemblyReference.cache
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Aboutus.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form4.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Damageform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageReportform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form2.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form3.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.LoginPage.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReturnform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchStockform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSupplierform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SearchSalesmanform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseReportform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanPaymentReportform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmansalesReportform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesReportform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.StockReportform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierPaymentform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierReport.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\Whosalemarket.csproj.GenerateResource.Cache
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe.manifest
+C:\Users\abhi\Desktop\feb 4\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.application

@@ -1,0 +1,25 @@
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.pdb
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SupplierRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesmanRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRolesRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EmployeeRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.EducationRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DepartmentRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.DamageRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.MeasurementRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProductRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PurchaseRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.SalesRegistrationform.resources
+c:\users\sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.PaymentRegistrationform.resources
+C:\Users\Sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.ProofRegistrationform.resources
+C:\Users\Sahana\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Market.resources
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\WindowsFormsApplication22.exe.config
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.exe
+C:\copy\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.pdb
